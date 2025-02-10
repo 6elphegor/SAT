@@ -6,11 +6,7 @@ An SAT solver powered by interaction combinators. It enumerates the entire input
 
 ## Installation
 1. Install HVM3 following the instructions in their repository
-2. Clone this repository:
-```shell
-git clone https://github.com/6elphegor/SAT/tree/main
-cd sat
-```
+2. Clone this repository
 
 ## Usage
 Run the solver using the HVM virtual machine:
